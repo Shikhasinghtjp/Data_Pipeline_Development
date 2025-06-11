@@ -31,14 +31,14 @@ pip install pandas scikit-learn
 python etl_pipeline.py
 
 
-🔧 Main Functions
+##🔧 Main Functions
 extract_data(): Loads and cleans the dataset.
 
 build_pipeline(): Builds preprocessing steps.
 
 run_pipeline(): Applies transformation and outputs processed data.
 
-📌 Output
+##📌 Output
 Console logs indicate each ETL step, ending with the final transformed dataset shape.
 
 
