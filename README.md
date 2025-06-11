@@ -7,6 +7,7 @@ The script reads a CSV file, processes it using standard imputation, encoding, a
 ## 📁 Structure
 Task1/
 ├── etl_pipeline.py # Main ETL script
+
 └── data.csv # Input dataset
 
 
@@ -28,6 +29,7 @@ Task1/
 
 ## bash
 pip install pandas scikit-learn
+
 python etl_pipeline.py
 
 
